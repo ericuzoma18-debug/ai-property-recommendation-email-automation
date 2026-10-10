@@ -49,3 +49,16 @@ This workflow demonstrates how AI and automation can reduce repetitive work, spe
 ## Disclaimer
 
 This project is a portfolio demonstration. Sample property data may be used, and the workflow is not presented as a production deployment.
+## Project Screenshots
+
+### Workflow
+![Workflow](workflow.jpg)
+
+### Google Form Responses
+![Google Form Responses](google-form-responses.jpg)
+
+### Property Database
+![Property Database](property-database.jpg)
+
+### Recommendation Email
+![Recommendation Email](recommendation-email.jpg)
