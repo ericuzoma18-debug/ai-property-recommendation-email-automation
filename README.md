@@ -61,6 +61,6 @@ This project is a portfolio demonstration. Sample property data may be used, and
 ![Property Database](property-database.jpg)
 
 ### Recommendation Email
-![Recommendation Email](recommendation-email.jpg)
 ## 🎥 Project Demo
-[Watch the full demo on LinkedIn] (https://www.linkedin.com/posts/ebuka-uzoma-10a301191_aiautomation-n8n-artificialintelligence-activity-7487582304488366081-gOws?utm_source=share&utm_medium=member_ios&rcm=ACoAAC0Su1oB4TYdyugpY1hy5D-D8w4_vleMBX4
+
+[Watch the full demo on LinkedIn](https://www.linkedin.com/posts/ebuka-uzoma-10a301191_aiautomation-n8n-artificialintelligence-activity-7487582304488366081-gOws)
